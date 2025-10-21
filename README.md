@@ -26,3 +26,5 @@ Gameシーン内でHierarchyよりRunner内のrunnerObjを好きなモデルに�
 
 ## メディア
 #### 以下の様にSNSなどで取り上げてもらいました
+日テレ R&Dラボ (Twitter/現X) : https://twitter.com/ntv_rd/status/1705867459612512660
+湘南工科大学HP : https://www.shonan-it.ac.jp/topics/20231002_02/
